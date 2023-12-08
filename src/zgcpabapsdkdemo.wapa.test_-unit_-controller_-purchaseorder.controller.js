@@ -1,0 +1,3 @@
+sap.ui.define(["comgoogle/google-cloud-abap-sdk-demo/controller/PurchaseOrder.controller"],function(e){"use strict";QUnit.module("PurchaseOrder Controller");QUnit.test("I should test the PurchaseOrder controller",function(o){var r=new e;r.onInit();o.ok(r+
+)})});                                                                                                                                                                                                                                                         
+//# sourceMappingURL=PurchaseOrder.controller.js.map                                                                                                                                                                                                           

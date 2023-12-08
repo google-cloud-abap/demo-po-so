@@ -1,0 +1,2 @@
+sap.ui.define(["comgoogle/google-cloud-abap-sdk-demo/test/unit/controller/PurchaseOrder.controller"],function(){"use strict"});                                                                                                                                
+//# sourceMappingURL=AllTests.js.map                                                                                                                                                                                                                           
