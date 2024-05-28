@@ -64,7 +64,8 @@ Enable Cloud Storage, Document AI, Cloud Translation, Address Validation and Clo
 #### Setup Google Cloud Storage
 1. Create Cloud Storage folders with POs in the GCP project with folder hierarchy as in screenshot below.
    <img width="1138" alt="image" src="https://github.com/google-cloud-abap/demo-po-so/assets/141922013/39750f1c-f19e-49ae-9c12-ff7a26f2ef18">
-2. Upload the PO files from the folder here.
+2. Download the attached zipped PO files ([link](https://github.com/google-cloud-abap/demo-po-so/blob/main/Sample%20Purchase%20Order%20Documents.zip)), unzip, and upload to the created GCS folder.
+   <img width="1914" alt="image" src="https://github.com/google-cloud-abap/demo-po-so/assets/141922013/39e4f8bf-6951-48a5-bf7c-20d6cd8cafdb">
 
 #### Setup Google Cloud Pub/Sub
 1. Create a Topic for sending “Order Confirmation”.
